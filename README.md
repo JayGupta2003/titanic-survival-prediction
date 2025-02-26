@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis
+# Titanic Dataset Analysis & Survival Prediction
 
 ## Overview
 This project explores the famous **Titanic dataset**, which contains information about passengers on the Titanic, including demographics, ticket class, and survival status. Our goal is to analyze the data and build predictive models to estimate the likelihood of survival based on various features. The analysis includes data preprocessing, exploratory data analysis (EDA), and model evaluation to find the best-performing classifier.
@@ -58,7 +58,7 @@ After testing various classifiers, we found that **SVM** performed the best with
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JayGupta2003/titanic-analysis.git
+   git clone https://github.com/JayGupta2003/titanic-survival-prediction.git
    cd titanic-analysis
    ```
 2. Run the Jupyter Notebook:
