@@ -32,10 +32,7 @@ EDA helps uncover patterns and relationships within the dataset. Below are some 
 ### 3. Age Distribution of Passengers
 - This histogram illustrates the distribution of passenger ages.
 - Young children had a **higher chance of survival**, while middle-aged adults had a lower survival rate.
-
-![Age Distribution](images/age_distribution.png)
-
-| Age Group | Age Range         |
+| Age Group | Age Range        |
 |-----------|------------------|
 | 0         | Age <= 10        |
 | 1         | 10 < Age <= 20   |
@@ -44,6 +41,8 @@ EDA helps uncover patterns and relationships within the dataset. Below are some 
 | 4         | 30 < Age <= 37   |
 | 5         | 37 < Age <= 45   |
 | 6         | Age > 45         |
+
+![Age Distribution](images/age_distribution.png) 
 
 ## Machine Learning Models
 To predict survival, we implemented and compared various machine learning models:
